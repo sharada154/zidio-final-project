@@ -1,4 +1,4 @@
-# Zidio Final Project
+# Project 1:Excel Analytics Platform
 
 This project was developed and submitted as part of the **Zidio Final Evaluation**.
 
